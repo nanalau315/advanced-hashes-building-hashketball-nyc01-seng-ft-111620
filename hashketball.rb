@@ -13,11 +13,13 @@ def game_hash
       :steals => "steals",
       :blocks => "blocks",
       :slam_dunks => "dunks"
-        
-        
-        
-        
-      }]
+      }
+      
+      
+      
+      
+      
+    ]
   },
     
   
